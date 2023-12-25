@@ -1,0 +1,15 @@
+K: 2
+assortative: false
+check_convergence_every: 10
+em_rounds: 100
+hyperedge_file: ''
+max_hye_size: null
+out_dir: ./out_inference/house_committees
+pickle_file: ''
+real_dataset: house-committees
+seed: null
+tolerance: null
+training_rounds: 10
+u_prior: 0.0
+w_prior: 1.0
+weight_file: ''
